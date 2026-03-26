@@ -94,4 +94,4 @@ The goal was to build hands-on experience in system administration, identity man
 
 ## Author
 **Noor Hossain Anik**  
-IT Support | Aspiring System Administrator  
+IT Support Analyst | Microsoft 365 | Active Directory | Intune | Networking | Systems Administrator
