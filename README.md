@@ -70,7 +70,7 @@ The goal was to build hands-on experience in system administration, identity man
 ## Screenshots
 
 ### Active Directory Users & Computers
-![AD Setup](screenshots/ad-users.png)
+![AD Setup](screenshots/Active Directory Setup)
 
 ### DHCP Configuration
 ![DHCP](screenshots/dhcp.png)
