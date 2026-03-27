@@ -69,17 +69,29 @@ The goal was to build hands-on experience in system administration, identity man
 
 ## Screenshots
 
+### Hyper-v
+[Open Hyper-v Screenshots](screenshots/Hyper-v%20Setup/)
+
 ### Active Directory Users & Computers
 [Open Active Directory Screenshots](screenshots/Active%20Directory%20Setup/)
 
+### User & Group Management
+[Open user & group management Screenshots](Screenshots/User%20&%20Group%20Management/)
+
 ### DHCP Configuration
-![DHCP](screenshots/dhcp.png)
+[Open DHCP Screenshots](screenshots/DHCP%20Configuration/)
 
 ### DNS Setup
-![DNS](screenshots/dns.png)
+[Open DNS Screenshots](screenshots/DNS%20Configuration/)
+
+### Group Policy
+[Open GPO Screenshots](screenshots/Group%20Policy(GPO)/)
+
+### Network
+[Open network Screenshots](screenshots/Network/)
 
 ### Domain Join
-![Domain Join](screenshots/domain-join.png)
+[Domain Join](screenshots/Client%20Join%20&%20Testing/)
 
 ---
 
